@@ -20,10 +20,11 @@
 
 .infoSquare{
   border: solid 1px #000;
-  width: 25%;
+  width: 10%;
+  height: 100vh;
   padding: 2vw;
   position: absolute;
   bottom: 0;
   right: 0;
-  font-size: 1.4em;
+  font-size: 8px;
 }
